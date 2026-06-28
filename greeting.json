@@ -1,0 +1,8 @@
+{
+    "greetings": [
+        "Welcome, {name}!",
+        "Hello {name}, nice to meet you!",
+        "Have an amazing day, {name}!",
+        "Great to see you, {name}!"
+    ]
+}
